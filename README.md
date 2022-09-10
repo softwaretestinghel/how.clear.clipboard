@@ -1,6 +1,6 @@
 # how clear clipboard
 
-[![how clear clipboard](gett-stateed.png)](https://github.com/softwaretestinghel/how.clear.clipboard/)
+[![how clear clipboard](gett-stateed.png)](https://icncomputer.com/how-clear-clipboard/)
 
 Another Way to Clear All Clipboard Data. You can also clear your clipboard data in Windows Settings. Navigate to Settings > System > Clipboard and locate the “Clear Clipboard Data” section. Click on the “Clear” button, and the clipboard will be erased. This is equivalent to pushing the “Clear All” button in the Clipboard history ...
 
